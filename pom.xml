@@ -67,6 +67,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>batch-processing-images</finalName>
     </build>
 
 </project>
